@@ -9,3 +9,6 @@ const featureB = "This is feature b from main branch with rebase"
 console.log(a)
 console.log(b)
 console.log(c)
+
+console.log(a)
+console.log(b)
